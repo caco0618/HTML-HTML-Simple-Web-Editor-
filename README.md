@@ -1,8 +1,6 @@
 # Simple-HTML-Web-Editor
-一个基于纯 HTML、CSS 和 JavaScript 的网页版在线html编辑器，即下即用/A web-based online HTML editor based on pure HTML, CSS and JavaScript
-✍️ YSIR'S HTML编辑器
-
-这是一个基于纯 **HTML5、CSS3 和 Vanilla JavaScript** 构建的轻量级、中文版在线 HTML 代码编辑器。它完全运行在浏览器端，无需后端支持，非常适合快速测试、学习或演示 HTML/CSS 代码。
+  这是一个基于纯 **HTML5、CSS3 和 Vanilla JavaScript** 构建的轻量级、中文版在线 HTML 代码编辑器。它完全运行在浏览器端，无需后端支持，非常适合快速测试、学习或演示 HTML/CSS 代码。
+  This is a lightweight, Chinese-language online HTML code editor built entirely with **HTML5, CSS3, and Vanilla JavaScript**. It runs purely on the client-side (browser) and requires no backend, making it an excellent tool for quick testing, learning, or demonstrating HTML/CSS code.
 
 ## ✨ 主要功能
 
@@ -34,9 +32,7 @@
 * 只需下载本仓库中的 `中文版html编辑器.html` 文件。
 * 使用任意现代浏览器（如 Chrome, Firefox, Edge 等）**直接打开** 该文件即可开始使用。
 
-# ✍️ YSIR'S HTML Editor (Chinese Edition)
 
-This is a lightweight, Chinese-language online HTML code editor built entirely with **HTML5, CSS3, and Vanilla JavaScript**. It runs purely on the client-side (browser) and requires no backend, making it an excellent tool for quick testing, learning, or demonstrating HTML/CSS code.
 
 ## ✨ Key Features
 
