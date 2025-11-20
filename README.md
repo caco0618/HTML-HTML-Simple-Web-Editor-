@@ -50,8 +50,8 @@
   
   * * *
   ##💻 网页页面/web page
-
-<img width="2529" height="1281" alt="akjdaiufhaiaohjcnuefhad" src="https://github.com/user-attachments/assets/32030e5d-b456-4331-9f28-53101936f69f" />
+  
+<img width="2490" height="1236" alt="dadlkajiacnaiowdjaj" src="https://github.com/user-attachments/assets/27231c40-32a5-4293-a3ed-84c982469d26" />
 
 | 按钮  | Button Text | 功能介绍 (Function Description) |
 | --- | --- | --- |
